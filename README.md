@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 
-Hey! I'm Yvan, a 14 year old computer science enthusiast.
+Hey! I'm Yvan, a 14 year old computer science enthusiast. I'm currently learning C++ [here](https://www.udemy.com/course/the-modern-cpp-20-masterclass/).
 
 
 ```text
