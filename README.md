@@ -1,4 +1,10 @@
 <!--START_SECTION:waka-->
+
+```text
+HTML     11 mins         ████████████████████████▓   99.29 %
+Python   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+```
+
 <!--END_SECTION:waka-->
 
 <!---
