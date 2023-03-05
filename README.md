@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 July 2022 - To: 02 March 2023
+From: 13 July 2022 - To: 03 March 2023
 
-Total Time: 17 hrs 49 mins
+Total Time: 18 hrs 1 min
 
-C++          9 hrs 42 mins   >>>>>>>>>>>>>>-----------   54.45 %
-Python       3 hrs 55 mins   >>>>>--------------------   21.98 %
-HTML         1 hr 24 mins    >>-----------------------   07.88 %
-JavaScript   1 hr 9 mins     >>-----------------------   06.50 %
-JSON         56 mins         >------------------------   05.29 %
-Batchfile    12 mins         -------------------------   01.17 %
+C++          9 hrs 42 mins   >>>>>>>>>>>>>------------   53.85 %
+Python       4 hrs 6 mins    >>>>>>-------------------   22.83 %
+HTML         1 hr 24 mins    >>-----------------------   07.79 %
+JavaScript   1 hr 9 mins     >>-----------------------   06.43 %
+JSON         56 mins         >------------------------   05.23 %
+Batchfile    12 mins         -------------------------   01.16 %
 ```
 
 <!--END_SECTION:waka-->
