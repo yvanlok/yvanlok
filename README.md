@@ -4,10 +4,24 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Yvan Lokhmotov's GitHub stats](https://github-readme-stats.vercel.app/api?username=yvanlok&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rmob7dna3okotzylzd0a71kzq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=rmob7dna3okotzylzd0a71kzq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=rmob7dna3okotzylzd0a71kzq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)https://spotify-github-profile.vercel.app/api/view.svg?uid=rmob7dna3okotzylzd0a71kzq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=rmob7dna3okotzylzd0a71kzq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)
+<h2 align="center">About Me </h2>
 
-[![Yvan Lokhmotov's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yvanlok&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=yvanlok&count_private=true&theme=transparent">
+      <img src="https://github-readme-stats.vercel.app/api?username=yvanlok&count_private=true&theme=transparent" alt="Yvan Lokhmotov's GitHub Stats">
+  </a>
+  <br/>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=rmob7dna3okotzylzd0a71kzq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile">
+  </a>
+</div>
+<h2 align="center">Skills </h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,rust,c,cpp,js,css,html,vscode,bootstrap,cloudflare,discord,docker,electron,firebase,supabase,git,github,linux,mongodb,nextjs,nodejs&perline=10&theme=dark" />
+  </a>
+</p>
 
 
 
